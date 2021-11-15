@@ -12,3 +12,12 @@ User should be able to manage events (add new event, update existing one or dele
 - [AutoMapper](https://github.com/AutoMapper/AutoMapper)
 
 ## Project structure
+- GloboTicket.TicketManagement.API 
+- GloboTicket.TicketManagement.Core
+  - GloboTicket.TicketManagement.Application
+    - Contracts
+      - Persistance
+  - GloboTicket.TicketManagement.Domain 
+    - Entities
+    - Common
+- GloboTicket.TicketManagement.Infrastructure
