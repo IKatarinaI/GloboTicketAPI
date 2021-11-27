@@ -8,3 +8,12 @@ C:\Users\k.ivosevic\Desktop\HackerRank\GloboTicketAPI\GloboTicket.TicketManageme
 C:\Users\k.ivosevic\Desktop\HackerRank\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
 C:\Users\k.ivosevic\Desktop\HackerRank\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.dll
 C:\Users\k.ivosevic\Desktop\HackerRank\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\katar\Desktop\Practice\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.deps.json
+C:\Users\katar\Desktop\Practice\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.dll
+C:\Users\katar\Desktop\Practice\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\bin\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.pdb
+C:\Users\katar\Desktop\Practice\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.csprojAssemblyReference.cache
+C:\Users\katar\Desktop\Practice\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\katar\Desktop\Practice\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.AssemblyInfo.cs
+C:\Users\katar\Desktop\Practice\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\katar\Desktop\Practice\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.dll
+C:\Users\katar\Desktop\Practice\GloboTicketAPI\GloboTicket.TicketManagement\GloboTicket.TicketManagement.Domain\obj\Debug\netcoreapp3.1\GloboTicket.TicketManagement.Domain.pdb
