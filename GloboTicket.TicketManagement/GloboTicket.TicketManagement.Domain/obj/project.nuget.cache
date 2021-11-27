@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "djiQG/3ZNDPk2/ziB8fthLAUkajxo7kZFAPrqKDPfLhqjpJluTE6AH8bfP7/1ssNzvUM0b4wOaEFu1Q08i5ZfA==",
+  "dgSpecHash": "e2uIi1KDRt8f/ha4thU1Nte+R6HJGmWSTgy+RIHDcDfAQRbl8Xo/V8miJHyrp64ZGpGayCsxJCpYpmU74C091A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\k.ivosevic\\Desktop\\HackerRank\\GloboTicketAPI\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
+  "projectFilePath": "C:\\Users\\katar\\Desktop\\Practice\\GloboTicketAPI\\GloboTicket.TicketManagement\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
